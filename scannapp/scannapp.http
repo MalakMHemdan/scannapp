@@ -1,0 +1,6 @@
+@scannapp_HostAddress = http://localhost:5281
+
+GET {{scannapp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

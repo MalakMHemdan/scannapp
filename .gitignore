@@ -1,0 +1,21 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Others
+*.log
+*.vsix
